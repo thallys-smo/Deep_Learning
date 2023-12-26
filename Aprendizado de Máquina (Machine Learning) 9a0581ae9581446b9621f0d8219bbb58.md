@@ -1,7 +1,6 @@
 # Aprendizado de Máquina (Machine Learning)
 
 ## Aprendizado Supervisionado (Supervised Learning)
-
 ---
 
 O aprendizado supervisionado é um tipo de técnica de aprendizado de máquina no qual fornecemos entradas com saídas rotuladas, ou seja, sabemos que cada entrada possui uma saída, a qual temos certeza que está correta. Logo, o algoritmo utilizada esse exemplos para se adaptar ao padrão de comportamento dos dados e fornecer no futuro uma resposta possivelmente certa para uma situação na categorizada no banco de dados iniciais. 
@@ -15,6 +14,8 @@ Regressão: predição de preço de casa
 Classificação: detecção de câncer de mama
 
 ## Aprendizado Não Supervisionado
+
+São sistemas que não temos rotulos bunitinhos. 
 
 ---
 
