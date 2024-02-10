@@ -1,6 +1,0 @@
-# Bateria Litio 1,5 V (2200mAh)
-
-Projeto: CAEG (../Projetos%201cc23ab3529646a5947c871dca1ccf45/CAEG%207fcf33a492b7420c87ef594b01ed91a5.md)
-Custo: 0
-Seleção: Eletrônica
-Unidades: 19
